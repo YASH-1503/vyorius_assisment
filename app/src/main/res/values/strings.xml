@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">vyorius_assisment</string>
+     <string name="mapbox_access_token">pk.eyJ1IjoieWFzaGphaW4xNSIsImEiOiJjbHRueDY4OTkwYWp5MmptZWszaHY1MXJzIn0.uZ7ojg6rIBx9doG0Lypmqw</string>
+<!--    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">YOUR_PUBLIC_MAPBOX_ACCESS_TOKEN</string>-->
+</resources>
